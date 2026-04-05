@@ -20,7 +20,7 @@ A worker is a person who makes something work, just like a cooler is a tool that
 
 “Coincidentally”, Making something work is exactly the very work of GOD, which makes every common worker, even the most insignificant one, a true colleague of the world's creator.
 
-It’s the second most incredible honor a mortal being can hope and reach for, right after a man of charity, which is become the likes of GOD.
+It’s the second most incredible honor a mortal being can hope and reach for, right after a man of charity, which is to become the likes of GOD.
 
 Some day, you will understand it preserves an even greater value than life itself, so “there is no satisfying return” is not a good enough reason to abandon this pursuit. 
 

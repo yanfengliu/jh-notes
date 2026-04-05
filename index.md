@@ -92,7 +92,7 @@
 
 [L4 - 潍柴动力董事长谭旭光称「无人驾驶就是忽悠，辅助驾驶是希望」背后有那些信息值得关注？你认可这个观点吗？](titled/l4.md)
 
-[Litttle Bang theory - 假设宇宙飞船在以百分之一的光速飞行，在飞行过程中遇到了一个静止钨元素为主的小陨石？当前材料是否能防护？](titled/litttle-bang-theory.md)
+[Little Bang theory - 假设宇宙飞船在以百分之一的光速飞行，在飞行过程中遇到了一个静止钨元素为主的小陨石？当前材料是否能防护？](titled/litttle-bang-theory.md)
 
 [madness - 如何评价巴黎奥运会运动员在塞纳河上乘坐游船入场的方式？](titled/madness.md)
 

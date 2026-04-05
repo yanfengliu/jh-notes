@@ -37,7 +37,7 @@ blender的前途是很远大的，只是现在还没到时候。
 
 说它前途远大，其实主要是因为omniverse可能成为未来的新中间件标准。
 
-所有的DCC软件都会渐渐趋向于去支持omniverse工作流，而ominiverse主推的USD格式有希望替代FBX格式。而blender看上去赶上了这个新浪潮。
+所有的DCC软件都会渐渐趋向于去支持omniverse工作流，而omniverse主推的USD格式有希望替代FBX格式。而blender看上去赶上了这个新浪潮。
 
 换言之，USD可能抹平blender在这方面的技术欠债。
 

@@ -1,4 +1,4 @@
-# Litttle Bang theory
+# Little Bang theory
 
 Tags: **Science**
 

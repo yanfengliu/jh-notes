@@ -29,7 +29,7 @@ Tags: **Clan**
 
 什么战？什么功？
 
-Just a friendly guy with a irresistible nice personality.
+Just a friendly guy with an irresistible nice personality.
 
 
 

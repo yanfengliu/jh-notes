@@ -42,7 +42,7 @@ give me one more sparkle that I can see in this darkness.
 
 Give this present of peace, grant me the best conditions possible to think about your proposal responsibly and peacefully.
 
-So that when I say yes, if I say yes, it’s will be a real “yes”, not a pathetic lie, to you and to myself, to spare me my loneliness and my lack of courage.
+So that when I say yes, if I say yes, it will be a real “yes”, not a pathetic lie, to you and to myself, to spare me my loneliness and my lack of courage.
 
 This is the best way out of this horrible situation that I can think of, my sole and sincere asking for you.
 
