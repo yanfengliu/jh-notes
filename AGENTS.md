@@ -1,9 +1,25 @@
-# AGENTS.md
+# AGENTS.md — jh-notes
 
-## Headless-first execution
+## What this is
 
-Always work headlessly by default. This is a mandatory execution rule, not an adaptable default. Use a visible browser window, desktop application, GUI automation, or another non-headless interaction only when it is absolutely necessary to complete or adequately verify the task and no headless alternative is sufficient. State the reason before launching the non-headless path.
+A Chinese-language personal notes/answers archive in Markdown — content lives in `All/` and `titled/`, indexed by `index.md`.
+Maintenance is paused; the README points readers to sooon.ai for new content. No code.
 
-## Git and review hygiene
+## Fleet constitution
 
-During substantial multi-step work, treat each minimal coherent unit as a delivery boundary: once it passes the applicable gates, review it immediately (self-review for trivial changes; adversarial review for behavior or public-contract changes), resolve substantive findings, stage only its scoped files, and commit it promptly before unrelated completed units accumulate in the worktree or diff. Never commit failing, in-flight, or partial work merely as a checkpoint.
+- Work headlessly by default; go non-headless only when nothing else can complete or verify the task, and say why.
+- These rules are strong defaults, not law: when one would make the work worse, deviate and say why.
+- Scale the approach to the task: trivial changes directly; substantial work as explore → plan → implement → verify, with subagents when work is genuinely parallel.
+- Delivery boundary: each minimal coherent verified unit is reviewed, staged (scoped files only), and committed promptly — never commit failing or partial work as a checkpoint. Commit to `main`; push at the end of every task.
+- The repo's gates must pass before every commit that touches code; doc-only changes need a self-reviewed diff.
+- Review: self-review trivial changes; adversarially review non-trivial ones — independent agents that try to refute the change against the live code. High-risk work (persistence/migrations, security/auth, concurrency, money, supply chain, edits that reach sibling repos) escalates to the multi-cli-review skill. Reviewers must read the live code; verify reviewer claims against the codebase before acting on them; substantive findings outweigh approval votes.
+- Dependency changes: re-resolve the lockfile, run the repo's audit gate (a new HIGH/CRITICAL is a blocker), and note the audit result in the commit message.
+- Docs are part of the change: update every affected surface in the same commit; write prose one line per paragraph (no hard wrapping); never reference or mandate files that don't exist.
+- Bias to continue: work through the whole accepted plan without mid-plan check-ins; context management is the harness's job, never a reason to stop. Stop only for a genuine blocker, a direction-changing decision, or an explicit stop. (Established 2026-05-01; reinforced 2026-07-05.)
+- Model pins live only in `../loop-ops/docs/skills/multi-cli-review.md` — never hardcode model IDs anywhere else.
+- Lessons files (`docs/learning/lessons.md` where present) require evidence anchors — source, fix commit, test id, behavior delta; unanchored lessons are folklore.
+- Recursive loop: before running or driving a pass, read `../loop-ops/docs/skills/recursive-playtest.md`; before building loop machinery, read `../loop-ops/docs/skills/building-recursive-loop.md`.
+
+## Gates
+
+No gates yet — establish them with the first code.
